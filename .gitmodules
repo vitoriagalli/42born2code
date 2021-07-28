@@ -22,3 +22,6 @@
 [submodule "09-ft_services"]
 	path = 09-ft_services
 	url = https://github.com/vscabell/ft_services
+[submodule "10-push_swap"]
+	path = 10-push_swap
+	url = https://github.com/vscabell/push_swap
