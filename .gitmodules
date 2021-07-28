@@ -1,0 +1,24 @@
+[submodule "01-libft"]
+	path = 01-libft
+	url = https://github.com/vscabell/libft
+[submodule "02-get_next_line"]
+	path = 02-get_next_line
+	url = https://github.com/vscabell/get_next_line
+[submodule "04-ft_printf"]
+	path = 04-ft_printf
+	url = https://github.com/vscabell/ft_printf
+[submodule "05-ft_server"]
+	path = 05-ft_server
+	url = https://github.com/vscabell/ft_server
+[submodule "06-cub3d"]
+	path = 06-cub3d
+	url = https://github.com/vscabell/cub3d
+[submodule "07-libasm"]
+	path = 07-libasm
+	url = https://github.com/vscabell/libasm
+[submodule "08-minishell"]
+	path = 08-minishell
+	url = https://github.com/vscabell/minishell
+[submodule "09-ft_services"]
+	path = 09-ft_services
+	url = https://github.com/vscabell/ft_services
