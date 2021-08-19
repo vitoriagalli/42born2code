@@ -17,7 +17,7 @@ This repo contains all the projects I developed during [École 42](https://www.4
 | 3 | [**minishell**](https://github.com/vscabell/minishell) | Code your own bash | C | :heavy_check_mark: | 100/100 | ![minishell](https://user-images.githubusercontent.com/56961723/126092137-0c91da14-ff0c-4395-b826-dab06d7e336e.png) |
 | 3 | [**ft_services**](https://github.com/vscabell/ft_services) | A System Administration and Networking project with cluster management | Kubernetes | :heavy_check_mark: | 100/100 | ![ft_services](https://user-images.githubusercontent.com/56961723/126092144-8b3f3f83-747a-4494-8562-74ea23d6cd69.png) |
 | 3 | [**push_swap**](https://github.com/vscabell/push_swap) | Sort a stack as efficiently as possible | C | :heavy_check_mark: | 125/100 | ![push_swap](https://user-images.githubusercontent.com/56961723/126092153-390546c6-35fa-4148-b934-8e4821c1897f.png) |
-| 4 | [**philosophers**](https://github.com/vscabell/) | The basics of threading a process | C | :hourglass: | .../100 | | | |
+| 4 | [**philosophers**](https://github.com/vscabell/philosophers) | The basics of threading a process | C | :heavy_check_mark: | 125/100 | ![philosophersm](https://user-images.githubusercontent.com/56961723/130152929-40aea3b5-abaa-4a8d-9f07-f6ae5968af80.png) |
 | :o: | :open_file_folder: | **_EXPLORANDO O ESPAÇO_** :milky_way:  | :computer: | :clock130: | :100: | :closed_lock_with_key: |
 | 4 | [**cpp modules**](https://github.com/vscabell/) | Time to dive into Object Oriented Programming! | C++ | :hourglass:  | .../100 | |  | |
 | 5 | ft_containers |  | |  |  | | | |
